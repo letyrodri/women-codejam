@@ -1,0 +1,20 @@
+Google Code Jam 2017 - Q&A
+
+Q: could you explain in detail about the process? 
+
+A: Basically is a competitive programming challenge. On March 11 at a specific time, Google will release 3 problems (I think they were 3 last year) and you have to solve it. If your solution is ok you get a punctuation, and you need to get the maximum you can. Also, you have a certain amount of time since the problems are published. In this case it is 2.5 hours :slightly_smiling_face:. You can use whatever programming language you want and I would say you feel more comfortable :slightly_smiling_face:. Anyway if you have more questions let me know :slightly_smiling_face: 
+
+Q: during the competition, can you search in internet or in your bibliography about algorihms?
+
+A: yes you can use Internet or whatever will help you. I will try  the practise exercises and probably get something ready to read the input and write the output. I'm more or less sure it will be quite similar in the exercises and it will be a matter of changing minor things.
+
+Q: So we are going to have to inputs small and large. First we download small, solve the problem then submit code and output and after that we can download the large... and we have to submit just the output. And we have points for each submissions, am I right?
+
+A: my approach is to read the problem, implement a solution for it and try it with the example they give, and then use the inputs. Just wait until you have a solution and then download the first input
+
+
+Q: How do you handle time? First you read the problem.. try to write down a solution and then you download small input? Because after you download the input you have 4 mins to revolve. (?)
+
+A: about the submissions you are right you get points for each submission, I remember last year I couldn't manage my time correctly and couldn't submit the last output and I just get less points
+
+Thanks to @mcarmenjc, @hope4more
