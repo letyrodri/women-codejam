@@ -1,3 +1,3 @@
 # women-codejam
 
-Women Codejam practice and participation from 2017.
+Women Codejam practice and participation since 2017.
