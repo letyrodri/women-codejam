@@ -1,3 +1,6 @@
+# Remove element from list
+a.remove('b')
+
 # intercarlar listas
 [x for t in zip(list_a, list_b) for x in t]
 
